@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP VICTUS\\OneDrive\\Documentos\\PROGRA II\\JULIO\\juegoCalamar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0190D079-4772-45B5-9285-E1A15C98724C}|juegoCalamar.csproj|c:\\users\\hp victus\\onedrive\\documentos\\progra ii\\julio\\juegocalamar\\juego del calamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190D079-4772-45B5-9285-E1A15C98724C}|juegoCalamar.csproj|solutionrelative:juego del calamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0190D079-4772-45B5-9285-E1A15C98724C}|juegoCalamar.csproj|c:\\users\\hp victus\\onedrive\\documentos\\progra ii\\julio\\juegocalamar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0190D079-4772-45B5-9285-E1A15C98724C}|juegoCalamar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego del calamar.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Documentos\\PROGRA II\\JULIO\\juegoCalamar\\Juego del calamar.cs",
+              "RelativeDocumentMoniker": "Juego del calamar.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Documentos\\PROGRA II\\JULIO\\juegoCalamar\\Juego del calamar.cs",
+              "RelativeToolTip": "Juego del calamar.cs",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAowDkBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T16:02:56.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP VICTUS\\OneDrive\\Documentos\\PROGRA II\\JULIO\\juegoCalamar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP VICTUS\\OneDrive\\Documentos\\PROGRA II\\JULIO\\juegoCalamar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T16:02:23.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
