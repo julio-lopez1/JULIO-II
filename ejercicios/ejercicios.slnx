@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../juegoCalamar/juegoCalamar.csproj" Id="bd52af4b-2ac0-4b6d-a60d-2eab1e4b039b" />
+  <Project Path="ejercicios.csproj" />
+</Solution>
